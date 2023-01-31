@@ -1,0 +1,11 @@
+
+.profileJob{
+    min-height: 75vh;
+}
+
+.profileJobTittle{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    border-bottom: solid 1px black;
+    margin-bottom: 2rem;
+}

@@ -1,0 +1,17 @@
+.container h3{
+    text-align: right;
+    border-bottom: solid 2pt rgb(180, 150,255 );
+}
+
+.container a{
+    text-decoration: none;
+}
+
+.container a:hover{
+    color: rgb(125, 115,215 );
+}
+
+.container .p_membercard{
+    display: inline-block;
+    width: 100%;
+}

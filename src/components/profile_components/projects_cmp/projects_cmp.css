@@ -1,0 +1,48 @@
+.projects_cmp{
+    display: flex;
+    top: 0;
+    left: 15%;
+    position: relative;
+    width: 85%;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 10px;
+}
+
+.projects_line{
+    background-color: #cacaca;
+    padding: 1px;
+    margin-bottom: 0;
+}
+
+.projects_h1{
+    font-size: 25px;
+    font-weight:bold;
+}
+
+.projects_tabs{
+    border-color: #cacaca !important;
+}
+
+.projects_tab_title{
+    color: black;
+    padding-bottom: 8px;
+}
+
+.projects_tab_active{
+    color: #8073d9;
+}
+
+.projects_tab_title:hover{
+    color: #B699FF;
+}
+
+.projects_create{
+    background-color: #8073d9 !important;
+    border: 0;
+    box-shadow: none !important;
+}
+
+.projects_create:hover, .projects_create:active{
+    background-color: #a29ad9 !important;
+}
+

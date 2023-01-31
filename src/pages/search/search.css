@@ -1,0 +1,25 @@
+
+.searchPage{
+    min-height: 75vh;
+}
+
+.searchTittle{
+    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+    border-bottom: solid 2px black;
+    margin-top: 1rem;
+}
+
+.searchQuestions{
+    font-size: 1.2rem;
+}
+
+.searchButton{
+    margin: 0rem 1rem;
+}
+
+.searchSeparator{
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    margin: 1rem 0rem;
+}

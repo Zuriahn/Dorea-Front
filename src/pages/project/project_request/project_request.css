@@ -1,0 +1,24 @@
+
+.projectRequestPage{
+    min-height: 75vh;
+}
+
+.projectRequestTittle{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    border-bottom: solid 2px black;
+    margin-bottom: 2rem;
+}
+
+.projectRequestSidebarCenter{
+    align-items: center;
+    justify-content: center;
+}
+
+.container .p_request{
+    display: inline-block;
+    width: 100%;
+}
+.container .imgCol{
+    max-width: 100px;
+}

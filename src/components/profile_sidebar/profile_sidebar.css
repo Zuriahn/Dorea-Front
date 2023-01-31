@@ -1,0 +1,94 @@
+
+.profileSidebar{
+    background-color: #8f74ce;
+    width: 100%;
+    min-height: 90vh;
+}
+
+.profile_username{
+    font-size: 1.8rem;
+    margin: 0;
+    color: white;
+}
+
+.profile_email{
+    color: white;
+}
+
+.profileSidebarDescription{
+    font-size: 1.2rem;
+    color: white;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+.profile_sidebar{
+    background-color: #8073d9;
+    display: flex;
+    position: fixed;
+    left: 0;
+    width: 15%;
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    padding: 0;
+}
+
+.sidebar_h1{
+    background-color: white; 
+    padding: 1px;
+}
+
+.profile_sidebar_divider{
+    margin-bottom: 1rem;
+    border-bottom: solid 1px white;
+}
+
+.sidebar_opc{
+    padding: 20px;
+    padding-left: 35px;
+    cursor: pointer;
+    font-size: 1.4rem;
+    color: white;
+}
+
+.profile_sidebar_edit{
+    color: white;
+}
+
+.profile_sidebar_edit:hover{
+    color: #a29ad9;
+}
+
+.sidebar_opc:hover{
+    background-color: #a29ad9 ;
+    color: black;
+}
+
+.sidebar_list_opc{
+   list-style: none;
+   padding: 0;
+}
+
+.opc_active{
+    background-color: #a29ad9;
+}
+
+.profile_img{
+    width: 90%;
+    height: 200px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: rgb(228, 228, 228);
+}

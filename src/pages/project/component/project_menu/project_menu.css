@@ -1,0 +1,11 @@
+
+.container .list-group-item{
+ border: none; 
+ overflow: hidden;
+}
+.container .list-group-item.active {
+    z-index: 2;
+    color: #fff;
+    background-color:  rgb(225, 215, 245);
+    border-color: rgb(150 100 200 / 25%);
+}

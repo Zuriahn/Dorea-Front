@@ -1,0 +1,44 @@
+
+.projectSidebar{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 0.5rem;
+    border-color: #b699ff;
+    border: solid 1px rgb(180, 150,255 );
+}
+
+.projectSidebarNameP{
+    font-weight: bold;
+}
+
+.projectSidebarNameC{
+    font-weight: bold;
+}
+
+.project_sidebar_edit{
+    color: black;
+}
+
+.projectSidebarCategory{
+    color: #6a46ad;
+}
+
+.projectSidebarImage{
+    display: block;
+    margin: 2rem auto;
+    height: 300px;
+}
+
+.projectSidebarBorder{
+    margin: 2rem;
+}
+
+.container .list-group-item{
+    border: none; 
+    overflow: hidden;
+}
+.projectSidebarItem:hover{
+    background-color: #b699ff;
+    border-radius: 5rem;
+    cursor: pointer;
+    color: white;
+}

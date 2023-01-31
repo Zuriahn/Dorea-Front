@@ -1,0 +1,17 @@
+
+.publication_cmp{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 0.5rem;
+    border-color: #b699ff;
+    border: solid 1px rgb(180, 150,255 );
+}
+
+.publicationCmpTittle{
+    background-color: azure;
+    border-bottom: solid 1px black;
+}
+
+.publicationCmpImage{
+    width: 10%;
+    height: 100px;
+}

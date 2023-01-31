@@ -1,0 +1,41 @@
+.jobsCmp{
+    font-family: 'Poppins', sans-serif;
+}
+
+.job_card{
+    border-bottom: 1px solid #cacaca;
+}
+
+.job{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.job_col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.job_name{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    justify-content: center;
+}
+
+.job_nameh3{
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.job_a{
+    text-decoration: none;
+    color: black;
+}
+
+.job_a:hover{
+    color: #a29ad9;;
+}

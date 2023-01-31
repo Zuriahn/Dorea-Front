@@ -1,0 +1,21 @@
+.footer{
+    height: auto;
+    background-color: #f1f1f1;
+}
+
+.footerBorder{
+    border-top: solid 1px black
+}
+
+.footerTittle{
+    font-family: 'Poppins', sans-serif;
+    color: #555555;
+    margin-top: 2rem;
+}
+
+.footerIcon{
+    font-size: 3rem;
+    margin: 0rem 2rem;
+    justify-content: center;
+    cursor: pointer;
+}

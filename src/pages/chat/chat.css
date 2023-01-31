@@ -1,0 +1,76 @@
+
+.chatPage{
+    min-height: 75vh;
+}
+
+.chatBorder{
+    border-right: solid 1px black;
+}
+
+.chatTittle{
+    font-size: 1.5rem;
+    font-family: 'Poppins', sans-serif;
+    border-bottom: solid 2px black;
+    margin-top: 1rem;
+}
+
+.chatUsersContainer{
+    overflow-y: scroll;
+    height: 60vh;
+}
+
+.chatUserImage{
+    width: 100%;
+    height: 100px;
+}
+
+.chatUserFound:hover{
+    cursor: pointer;
+}
+
+.chatUserSearch{
+    font-size: 1.2rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+.chatBtnSearch{
+    margin: 0rem 1rem;
+}
+
+.chatUser{
+    font-size: 1.4rem;
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+    margin: 0.5rem 0rem;
+}
+
+.chatContainer{
+    overflow-y: scroll;
+    height: 600px;
+}
+
+.chatUserLeft{
+    text-align: left;
+}
+
+.chatTextLeft{
+    font-size: 1.6rem;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 1rem;
+    background-color: lightgreen;
+    display: inline-block;
+    border-radius: 0.5rem;
+}
+
+.chatUserRight{
+    text-align: right;
+}
+
+.chatTextRight{
+    font-size: 1.6rem;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 1rem;
+    background-color: aqua;
+    display: inline-block;
+    border-radius: 0.5rem;
+}

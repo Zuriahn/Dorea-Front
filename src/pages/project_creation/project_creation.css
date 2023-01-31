@@ -1,0 +1,22 @@
+
+.projectCreationPage{
+    min-height: 75vh;
+}
+
+.projectCreateLabels{
+    font-size: 1.2rem;
+}
+
+.projectCreationTittle{
+    font-family: 'Poppins', sans-serif;
+    border-bottom: solid 2px black;
+}
+
+.projectCreateImage{
+    display: block;
+    margin: 0rem auto;
+    width: 65vw;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}

@@ -1,0 +1,26 @@
+
+.myapplicationsCmp{
+    margin-bottom: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.application_status{
+    color: #a29ad9 ;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.application_card{
+    display: flex;
+    justify-content:space-around;
+}
+
+.application_a{
+    text-decoration: none;
+    color: black;
+}
+
+.application_card_title{
+    font-weight: bold;
+    text-align: center;
+}

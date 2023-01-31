@@ -1,0 +1,9 @@
+
+.notificationCmp{
+    border: solid 1px black;
+}
+
+.notificationCmpBorderDown{
+    background-color: azure;
+    border-bottom: solid 1px black;
+}

@@ -1,0 +1,11 @@
+
+.loaderPage{
+display: inline-flex;
+background-color: #8c5de4;
+color: white;
+padding: 0.5rem;
+border-radius: 4px;
+align-items: center;
+justify-content: center;
+font-weight: bold;
+}

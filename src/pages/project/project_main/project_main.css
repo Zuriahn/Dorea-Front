@@ -1,0 +1,16 @@
+
+.projectMainPage{
+    min-height: 75vh;
+}
+
+.projectMainTittle{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    border-bottom: solid 2px black;
+    margin-bottom: 2rem;
+}
+
+.projectMainSidebarCenter{
+    align-items: center;
+    justify-content: center;
+}

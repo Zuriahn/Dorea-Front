@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&family=Josefin+Sans:wght@100;700&family=Poppins&display=swap');
+
+.header{
+    width: 100%;
+    background-color: #6a46ad ;
+    height: 7vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.headerSearchButton{
+    background: transparent;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: white;
+}
+
+.headerSearchButton:hover{
+    background: transparent;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: white;
+}
+
+.headerSearchButton:active{
+    background: transparent;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: white;
+}
+
+.headerSearchIcon{
+    background: transparent;
+    border: none;
+}
+
+.headerSearchIcon:hover{
+    background: transparent;
+    border: none;
+}
+
+.headerSearchIcon:active{
+    background: transparent;
+    border: none;
+}
+
+.headerTittle{
+    color: white;
+}
+
+.headerIcons{
+    color: white;
+}
+
+.headerIconsLink{
+    margin-left: 1rem;
+}
+
+.headerDropdown{
+    background: none;
+    border: none;
+}
+
+.headerDropdown:hover{
+    background: none;
+    border: none;
+}
+
+.headerDropdown:active{
+    background: none;
+    border: none;
+}
+
+.headerDropDownItem{
+    cursor: pointer;
+}
+
+.headerDropDownItem:hover{
+    background: whitesmoke;
+}

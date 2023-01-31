@@ -1,0 +1,36 @@
+
+.projectpresentationPage{
+    min-height: 75vh;
+}
+
+.projectPresentationTittle{
+    font-family: 'Poppins', sans-serif;
+}
+
+.projectPresentationCategory{
+    color: #6a46ad;
+}
+
+.projectPresentationImage{
+    border-right: solid 3px #b496ff;
+    padding-right: 1rem;
+    height: 575px;
+}
+
+.projectPresentationsStar:hover{
+    color: yellow;
+    cursor: pointer;
+}
+
+.projectPresentationButton{
+    background-color: #b496ff;
+}
+
+.projectPresentationButton:hover{
+    background-color: #b496ff;
+}
+
+.projectPresentation_a{
+    text-decoration: none;
+    color: black;
+}

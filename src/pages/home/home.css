@@ -1,0 +1,59 @@
+
+.homePage{
+    min-height: 75vh;
+}
+
+.homeFront{
+    background-image: url(https://cdn.discordapp.com/attachments/934475299079454821/958134730707066930/fondo_dorea.jpg);
+    height: 350px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+}
+
+.profilepicture{
+    object-fit: cover;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    
+}
+
+.homeTitles{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+}
+
+.homeTitleLg{
+    font-size: 4rem;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    color: antiquewhite;
+}
+
+.homeTitleSm{
+    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+    color: antiquewhite;
+    margin-top: 2rem;
+}
+
+.homeCreateTittle{
+    background-color: #6a46ad;
+    border-color: #6a46ad;
+    font-size: 1.2rem;
+    font-weight: bold;
+    display: inline-flex;
+    color: white;
+}
+
+.homeSeparator{
+    font-size: 1.7rem;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}

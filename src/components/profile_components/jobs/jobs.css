@@ -1,0 +1,5 @@
+
+.jobs{
+    overflow-y: scroll;
+    max-height: 80vh;
+}

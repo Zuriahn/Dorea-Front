@@ -1,0 +1,10 @@
+
+.notificationPage{
+    min-height: 75vh;
+}
+
+.notificationTitle{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    border-bottom: solid 2px black;
+}

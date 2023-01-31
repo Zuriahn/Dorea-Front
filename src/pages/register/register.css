@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "Open Sans";
+    src: local("Open Sans"),
+    url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap') format('truetype');
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: local("Poppins"),
+    url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap") format('truetype');
+}
+
+.register{
+    min-height: 100vh;
+    background-color: rgba(182, 153, 255, 0.1);
+}
+
+.registerCenterPanel{
+    align-items: center;
+    justify-content: center;
+}
+
+.registerRightPanel{
+    background-image: linear-gradient(-25deg, #b699ff 0%, #fd0495 100%);
+    border-radius: 50%;
+    z-index: 6;
+}
+
+.registerBorder{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 0.5rem;
+}
+
+.registerForm{
+    margin: 2rem;
+}
+
+.registerImageForm{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: 10vw;
+}
+
+.registerImageBackground{
+    width: 100%;
+}

@@ -1,0 +1,12 @@
+
+.update_cmp{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 0.5rem;
+    border-color: #b699ff;
+    border: solid 1px rgb(180, 150,255 );
+}
+
+.updateCmpTittle{
+    background-color: azure;
+    border-bottom: solid 1px black;
+}
