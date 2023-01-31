@@ -1,3 +1,5 @@
+Dorea is a website where anyone can post projects to manage or participate in the development of them. This is a small project that I created to learn about React and Bootstrap.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
